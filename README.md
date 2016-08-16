@@ -51,7 +51,7 @@ $ cat ~/.ssh/id_rsa.pub
 # 测试 SSH 连接
 $ ssh -T git@git.oschina.net
 
-# 终端提示 Welcome to Git@OSC, 极客江南!` 说明连接成功
+# 终端提示 Welcome to Git@OSC, "自己连接名"!` 说明连接成功
 ```
 
 ---
